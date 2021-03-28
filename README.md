@@ -7,7 +7,7 @@
 
 * * *
 
-<table frame=void>
+<table border="0">
   <tr>
     <td valign="top">
     <a href="https://solved.ac/skyworking/" target="_blank">
