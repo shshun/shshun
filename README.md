@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=shshun&fontSize=90)
 
 <div align="center">
-    <h3> 🛠️기술스택🛠️ </h3>
+    <h2> 🛠️기술스택🛠️ </h2>
 </div>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -27,7 +27,7 @@
 * * *
 
 <div align="center">
-    <h3> ✏️알고리즘 풀이✏️ </h3>
+    <h2> ✏️알고리즘 풀이✏️ </h2>
 </div>
 
     
