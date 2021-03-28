@@ -1,12 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=shshun&fontSize=90)
 
-
-
-<center>
+<div align="center">
 # 🛠️기술스택🛠️
-</center>
-
+</div>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
@@ -29,9 +26,9 @@
 
 * * *
 
-<center>
+<div align="center">
 # ✏️알고리즘 풀이✏️
-</center>
+</div>
 
     
 ![footer](https://capsule-render.vercel.app/api?section=footer)
