@@ -29,3 +29,9 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
+<style>
+  table{
+    margin-left:auto;
+    margin-right:auto;
+  }
+</style>
