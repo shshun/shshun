@@ -7,7 +7,7 @@
 
 * * *
 
-<div align="center" line-height="100px">
+<div align="center" text-align="center">
     <a href="https://solved.ac/skyworking/" target="_blank">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=skyworking"/>
     </a>
