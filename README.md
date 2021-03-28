@@ -3,7 +3,9 @@
 
 
 
+<center>
 # 🛠️기술스택🛠️
+</center>
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -27,8 +29,9 @@
 
 * * *
 
+<center>
 # ✏️알고리즘 풀이✏️
+</center>
 
-    
     
 ![footer](https://capsule-render.vercel.app/api?section=footer)
