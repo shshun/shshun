@@ -7,16 +7,13 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 * * *
+<table>
+  <tr>
+ <td valign="top"> [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skyworking)](https://solved.ac/skyworking) <td>
 
-<div>
-<div class="inlineDiv">
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skyworking)](https://solved.ac/skyworking)
-</div>
-
-<div class="inlineDiv">
-[![hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shshun&show_icons=true&theme=radical)](https://github.com/shshun/github-readme-stats)
-</div>
-<div>
+ <td valign="top"> [![](https://github-readme-stats.vercel.app/api?username=shshun&show_icons=true&theme=radical)](https://github.com/shshun/github-readme-stats) <td>
+  </tr>
+</table>
 * * *
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shshun&layout=compact)](https://github.com/shshun/github-readme-stats)
@@ -24,6 +21,3 @@
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
-.inlineDiv {
-  display : inline;
-}
