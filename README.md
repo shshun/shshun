@@ -7,14 +7,12 @@
 
 * * *
 
-<div>
-<div display="inline">
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skyworking)](https://solved.ac/skyworking)
-</div>
-<div display="inline">
+
+* * *
+
 [![hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shshun&show_icons=true&theme=radical)](https://github.com/shshun/github-readme-stats)
-<div>
-</div>
+
 
 * * *
 
