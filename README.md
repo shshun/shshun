@@ -7,7 +7,17 @@
 
 * * *
 
-<table border="0">
+<div>
+    <a href="https://solved.ac/skyworking/" target="_blank">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=skyworking"/>
+    </a>
+  
+    <a href="https://github.com/shshun/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=shshun&show_icons=true&theme=radical"/>
+    </a>
+<div>
+  
+<table >
   <tr>
     <td valign="top">
     <a href="https://solved.ac/skyworking/" target="_blank">
@@ -28,10 +38,3 @@
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
-
-<style>
-  table{
-    margin-left:auto;
-    margin-right:auto;
-  }
-</style>
