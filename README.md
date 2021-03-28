@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=shshun&fontSize=90)
 
 
-<center>✏️알고리즘 풀이✏️</center>  
+#<center>✏️알고리즘 풀이✏️</center>  
 <center>🛠️기술스택🛠️</center>  
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -26,7 +26,7 @@
 
 * * *
 
-<center>✏️알고리즘 풀이✏️</center>  
+#<center>✏️알고리즘 풀이✏️</center>  
 
 
     
