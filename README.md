@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=shshun&fontSize=90)
 
 <h2 align="center">🛠️기술스택🛠️ <h1>
-<h2 align="center">✏️알고리즘 풀이✏️<h1>
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 * * *
@@ -16,14 +16,14 @@
     </a>
 <div>
   
-
+<h2 align="center">✏️알고리즘 풀이✏️<h1>
 
 * * *
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shshun&layout=compact)](https://github.com/shshun/github-readme-stats)
 
 * * *
-
+<h2 align="center">✏️알고리즘 풀이✏️<h1>
 
     
     
