@@ -22,19 +22,6 @@
   </tr>
 </table>
 
-
-<table>
-  <tr>
- <td valign="top"> 
- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skyworking)](https://solved.ac/skyworking) 
- <td>
-
- <td valign="top"> 
- [![](https://github-readme-stats.vercel.app/api?username=shshun&show_icons=true&theme=radical)](https://github.com/shshun/github-readme-stats) 
- <td>
-  </tr>
-</table>
-
 * * *
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shshun&layout=compact)](https://github.com/shshun/github-readme-stats)
