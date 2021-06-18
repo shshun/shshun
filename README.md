@@ -5,7 +5,7 @@
     <h2> 🛠️기술스택🛠️ </h2>
 </div>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-4766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://camo.githubusercontent.com/7ca64badc32780bda9c07241a3942924a858a8e9674a83b0d020b1c5148d6132/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/a61e51b2c18a6162caab2b4b87ace8ee316c28eb02e41f80aa99c9f9023fe9a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=java&amp;logoColor=white" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/20dda8b9a6a23321700d0accd653cddcc6b99cace7743d7b1b0527dfc2b9a762/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width:100%;">
