@@ -16,7 +16,7 @@
 <img 
      src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" data-canonical-src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&amp;logo=vue.js&amp;logoColor=white" style="max-width:100%;">
 <img 
-     src=https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" data-canonical-src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&amp;logo=vue.js&amp;logoColor=white" style="max-width:100%;">
+     src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" data-canonical-src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&amp;logo=vue.js&amp;logoColor=white" style="max-width:100%;">
 * * *
 
 <div align="center" text-align="center">
